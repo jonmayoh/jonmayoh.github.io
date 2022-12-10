@@ -3,5 +3,5 @@ lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'squirt01.json' // the path to the animation json
+  path: 'samurai.json' // the path to the animation json
 });
